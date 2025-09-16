@@ -1,0 +1,36 @@
+{
+    "revanced": {
+        "projectName": "Revanced",
+        "sources": {
+            "cli": {
+                "org": "ReVanced",
+                "repo": "revanced-cli"
+            },
+            "patches": {
+                "org": "ReVanced",
+                "repo": "revanced-patches"
+            },
+            "integrations": {
+                "org": "revanced",
+                "repo": "revanced-integrations"
+            }
+        }
+    },
+    "inotia00": {
+        "projectName": "Revanced-Extended",
+        "sources": {
+            "cli": {
+                "org": "inotia00",
+                "repo": "revanced-cli"
+            },
+            "patches": {
+                "org": "inotia00",
+                "repo": "revanced-patches"
+            },
+            "integrations": {
+                "org": "inotia00",
+                "repo": "revanced-integrations"
+            }
+        }
+    }
+}
