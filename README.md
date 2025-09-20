@@ -1,17 +1,12 @@
 # Apk Patcher
 
-<details>
-<summary>🌐 Language / Idioma</summary>
-
 <!-- Tabs -->
-<div class="tabs">
-  <input type="radio" id="tab-en" name="tab-group" checked>
-  <label for="tab-en">English</label>
+<div style="display: flex; gap: 10px; margin-bottom: 10px;">
+  <button onclick="document.getElementById('eng').style.display='block';document.getElementById('esp').style.display='none';">Eng</button>
+  <button onclick="document.getElementById('esp').style.display='block';document.getElementById('eng').style.display='none';">Esp</button>
+</div>
 
-  <input type="radio" id="tab-es" name="tab-group">
-  <label for="tab-es">Español</label>
-
-  <div class="tab-content" id="content-en">
+<div id="eng" style="display: block;">
 
 ## Apk Patcher
 
@@ -103,9 +98,9 @@
 
 </details>
 
-  </div>
+</div>
 
-  <div class="tab-content" id="content-es">
+<div id="esp" style="display: none;">
 
 ## Apk Patcher
 
@@ -197,7 +192,4 @@
 
 </details>
 
-  </div>
 </div>
-
-</details>
