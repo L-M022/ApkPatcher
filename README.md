@@ -1,16 +1,31 @@
 # Apk Patcher
 
+<details>
+<summary>🌐 Language / Idioma</summary>
+
+<!-- Tabs -->
+<div class="tabs">
+  <input type="radio" id="tab-en" name="tab-group" checked>
+  <label for="tab-en">English</label>
+
+  <input type="radio" id="tab-es" name="tab-group">
+  <label for="tab-es">Español</label>
+
+  <div class="tab-content" id="content-en">
+
+## Apk Patcher
+
 **Apk Patcher** allows you to apply **Revanced** or **Inotia00** patches to any compatible APK.
 
 ---
 
-## Requirements
+### Requirements
 - **Java 17+**
 - Java-compatible operating system (Windows, macOS, Linux)
 
 ---
 
-## Supported Apps (click to expand)
+### Supported Apps (click to expand)
 
 <details>
 <summary>Streaming & Multimedia</summary>
@@ -85,5 +100,104 @@
 - TickTick - Todo & Task List
 - Mi Fitness
 - Google Photos
+
+</details>
+
+  </div>
+
+  <div class="tab-content" id="content-es">
+
+## Apk Patcher
+
+**Apk Patcher** te permite aplicar parches de **Revanced** o **Inotia00** a cualquier APK compatible.
+
+---
+
+### Requisitos
+- **Java 17+**
+- Sistema operativo compatible con Java (Windows, macOS, Linux)
+
+---
+
+### Aplicaciones compatibles (clic para expandir)
+
+<details>
+<summary>Streaming y Multimedia</summary>
+
+- Crunchyroll
+- YouTube
+- YouTube Music
+- Spotify
+- Spotify Lite
+- SoundCloud
+- TikTok (Asia)
+- Lightroom
+- Piccoma
+- Bandcamp
+- Fondos de pantalla Backdrops
+
+</details>
+
+<details>
+<summary>Redes Sociales y Comunicación</summary>
+
+- Twitter
+- Tumblr
+- Reddit
+- Messenger
+- Instagram
+- Facebook
+- Joey for Reddit
+- Boost for Reddit
+- Rif is fun for Reddit
+- Relay for Reddit
+- Slide for Reddit
+- Infinity for Reddit
+- BaconReader for Reddit
+
+</details>
+
+<details>
+<summary>Productividad y Utilidades</summary>
+
+- Amazon Shopping
+- Duolingo
+- HEX Editor
+- Sync for Reddit
+- Sync for Lemmy
+- Opening Hours
+- MyFitnessPal
+- Google News
+- Pixiv
+- Willhaben
+- Stocard
+- WinRAR
+- Photomath
+- WarnWetter
+- SwissID
+- Irplus - Infrared Remote
+- Sony | Sound Connect
+- FinanzOnline
+- NetGuard - firewall sin root
+- Recorder
+- Solid Explorer File Manager
+- Digitales Amt
+- SPB Serviceportal Bund
+- TU Dortmund
+- Yuka Food & Cosmetic Scanner
+- Icon Pack Studio
+- Generador de memes
+- My Expenses
+- NFC Tools
+- Trakt
+- Windy.app
+- TickTick - Todo & Lista de tareas
+- Mi Fitness
+- Google Photos
+
+</details>
+
+  </div>
+</div>
 
 </details>
